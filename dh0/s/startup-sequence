@@ -1,0 +1,7 @@
+noclick
+assign env: envarc:
+assign sources: dh0:code
+assign t: ram:
+assign keymaps: devs:keymaps
+setkeyboard s
+iprefs
