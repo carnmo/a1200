@@ -1,1 +1,1 @@
-~/bin/FS-UAE/fs-uae --uaem_write_flags=n --kickstart_file=rom/randy-a1200-3.1.rom --amiga_model=a1200 --hard_drive_0=dh0 --floppy_drive_0_sounds=off --floppy_drive_1_sounds=off --initial_input_grab=on --fullscreen=0 --console_debugger=1 --end_config=1
+~/bin/FS-UAE/fs-uae --uaem_write_flags=n --kickstart_file=rom/randy-a1200-3.1.rom --amiga_model=a1200 --uae_fastmem_size=8 --hard_drive_0=dh0 --floppy_drive_0_sounds=off --floppy_drive_1_sounds=off --initial_input_grab=on --fullscreen=0 --console_debugger=1 --end_config=1
